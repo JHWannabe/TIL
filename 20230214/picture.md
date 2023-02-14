@@ -11,7 +11,8 @@
 
 
 ### 10시 사진
-![4](https://user-images.githubusercontent.com/87485477/218024380-4b71de01-768b-429a-a923-3fd01fb49419.png)
+<img width="1920" alt="10" src="https://user-images.githubusercontent.com/87485477/218747187-3fadfa0b-7b6e-47a3-ab51-deee98795f0d.png">
+
 
 
 
