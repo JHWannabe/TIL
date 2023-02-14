@@ -1,10 +1,12 @@
 ### 8시 사진
-![2](https://user-images.githubusercontent.com/87485477/218019066-98f828a8-484c-44b0-9aff-f8d1a3146214.png)
+<img width="1918" alt="8" src="https://user-images.githubusercontent.com/87485477/218745874-c5be5b34-89e5-4925-a4f6-cee0023e89e7.png">
+
 
 
 
 ### 9시 사진
-![3](https://user-images.githubusercontent.com/87485477/218019099-6007361a-1e39-4b3f-9900-22e7d24a4197.png)
+<img width="1920" alt="9" src="https://user-images.githubusercontent.com/87485477/218745888-8e1e9802-84d0-4e27-8967-f6dc834aa0bc.png">
+
 
 
 
